@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Pavaninandireddy
-- 👀 I’m interested in sleeping 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on pora
-- 📫 How to reach me Pavaninandireddy@gmail.com
+
+    🔭 I’m currently working on Learning
+    🌱 I’m currently learning New things
+    👯 I’m looking to collaborate with difficult things
+    🤔 I’m looking for help with Unknown things
+    💬 Ask me about anything
+    📫 How to reach me: pavaninandiredy@gmail
 
 <!---
 Pavaninandireddy/Pavaninandireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
